@@ -6,7 +6,7 @@ I did a 2D videogame like the original PONG using Unity ```2019.3.0a4``` and the
 
 I use [ ```Unity Hub```](https://unity.com/es/download), choose the first option and download it, then you just have to installed and add the folder there.
 
-The just open and enjoy it.
+Then just open and enjoy it.
 
 Version - ```2019.3.0a4```
 
